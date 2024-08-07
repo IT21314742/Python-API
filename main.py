@@ -10,5 +10,6 @@ def home():
 GET
 POST
 
+
 if __name__ == "__main__":
     app.run(debug=True)
