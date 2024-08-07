@@ -4,7 +4,7 @@ app = Flask(_name_)
 
 
 def home():
-    return ""
+    return "Home"
 
 if __name__ == "_main_":
     app.run(debug=True)
