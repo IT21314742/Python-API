@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 app = Flask(_name_)
 
 
-@app
+@app.
 def home():
     return "Home"
 
