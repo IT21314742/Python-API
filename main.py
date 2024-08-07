@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 app = Flask(__name__)
 
 
-@app.route("get-user")
+@app.route("get-user/")
 
 # GET
 # POST
