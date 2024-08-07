@@ -7,10 +7,10 @@ app = Flask(__name__)
 def home():
     return "Home"
 
-GET
-POST
-PUT
-DELETE
+# GET
+# POST
+# PUT
+# DELETE
 
 if __name__ == "__main__":
     app.run(debug=True)
