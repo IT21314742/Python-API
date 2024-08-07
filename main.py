@@ -7,5 +7,5 @@ app = Flask(__name__)
 def home():
     return "Home"
 
-if __name__ == "_main_":
+if __name__ == "_main__":
     app.run(debug=True)
