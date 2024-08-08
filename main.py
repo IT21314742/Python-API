@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/get-user/<user_id>")
 def get_user(user_id):
-    user_data = 
+    user_data = {}
 
 
 # GET
