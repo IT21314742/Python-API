@@ -11,7 +11,7 @@ def get_user(user_id):
         "email": "Vihan@gmail.com"
     }
     
-    extra = request.args(method, url, body=None, headers={})()
+    extra = request.args.(method, url, body=None, headers={})()
 
 
 # GET
