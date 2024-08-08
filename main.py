@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 
 @app.route("/get-user/<>user_id")
-def get_
+def get_user
 
 # GET
 # POST
