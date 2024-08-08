@@ -11,7 +11,7 @@ def get_user(user_id):
         "email": "Vihan@gmail.com"
     }
     
-"get-user/123?extra=hello "
+"get-user/123?extra=hello world"
 
 
 # GET
