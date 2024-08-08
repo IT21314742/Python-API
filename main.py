@@ -10,6 +10,8 @@ def get_user(user_id):
         "name": "Vihan Maneth",
         "email": "Vihan@gmail.com"
     }
+    
+    
 
 
 # GET
