@@ -7,6 +7,7 @@ app = Flask(__name__)
 def get_user(user_id):
     user_data = {
         "user_id": user_id,
+        
     }
 
 
