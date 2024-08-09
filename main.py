@@ -12,7 +12,7 @@ def get_user(user_id):
     }
     
     extra = request.args.get("extra")
-    if 
+    if extra
 
 
 # GET
