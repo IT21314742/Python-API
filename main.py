@@ -14,6 +14,7 @@ def get_user(user_id):
     extra = request.args.get("extra")
     if extra:
         user_data["extra"] = extra
+        
 
 
 # GET
