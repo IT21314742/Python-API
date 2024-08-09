@@ -15,7 +15,7 @@ def get_user(user_id):
     if extra:
         user_data["extra"] = extra
         
-    return jsonify()
+    return jsonify(user_data)
 
 
 # GET
