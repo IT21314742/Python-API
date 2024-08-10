@@ -18,7 +18,7 @@ def get_user(user_id):
     return jsonify(user_data), 200
 
 @app.route("create-user", methods=["POST", "GET"])
-def create_user()
+def create_user():
 
 
 # GET
