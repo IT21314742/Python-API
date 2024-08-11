@@ -19,7 +19,7 @@ def get_user(user_id):
 
 @app.route("create-user", methods=["POST", "GET"])
 def create_user():
-    if request(method, url
+    if request(method, ur
 
 
 # GET
