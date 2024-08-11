@@ -21,7 +21,6 @@ def get_user(user_id):
 def create_user():
     if request.(self, *args, **kwargs):
         rurn super().(*args, **kwarg
-    
 
 
 # GET
