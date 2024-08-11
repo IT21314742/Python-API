@@ -19,7 +19,9 @@ def get_user(user_id):
 
 @app.route("create-user", methods=["POST", "GET"])
 def create_user():
-    if request.
+    if request.(self, *args, **kwargs):
+        return super().(*args, **kwargs)
+    
 
 
 # GET
