@@ -20,6 +20,7 @@ def get_user(user_id):
 @app.route("create-user", methods=["POST", "GET"])
 def create_user():
     data = request.get_json()
+    
 
 
 # GET
