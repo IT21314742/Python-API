@@ -21,7 +21,7 @@ def get_user(user_id):
 def create_user():
     data = request.get_json()
     
-    return
+    return jsonify
     
 
 
