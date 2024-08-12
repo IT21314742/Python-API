@@ -22,7 +22,6 @@ def create_user():
     if request.(self, *args, **kwargs):
 
 
-
 # GET
 # POST
 # PUT
